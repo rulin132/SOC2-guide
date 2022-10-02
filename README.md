@@ -73,6 +73,7 @@ What parts of the company will be SOC 2 compliant? Maybe exclude your marketing 
 ### Security Monitoring:
 - [Detectify](https://detectify.com/) ✅
 - [sqreen](https://www.sqreen.com/)
+- [Imunify360](https://www.imunify360.com/) - Linux server security monitoring
 
 ### Security Training:
 - [Hutsix](https://www.hutsix.io/)
