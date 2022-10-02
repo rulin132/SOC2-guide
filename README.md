@@ -10,7 +10,7 @@ In depth: [The Ultimate Guide to SOC 2 Compliance](https://www.blissfully.com/gu
 
 ## Budget & Costs
 
-Expect to spend $30-$50 CAD first year getting started.
+Expect to spend $35-$60 AUD first year getting started.
 
 ## Timeline
 
@@ -43,8 +43,10 @@ What parts of the company will be SOC 2 compliant? Maybe exclude your marketing 
 ### Audit Prep: [Vanta](https://vanta.com/) ✅
 
 ### Background checks:
-- [Certn](https://certn.co/) ✅
+- [Certn](https://certn.co/) ✅ - Billed in Canadian, unsure of Australian 
   - Vanta integration
+- [Equifax](https://www.equifax.com.au/)
+
 
 ### Password Manager:
  - [1Password](https://1password.com/) ✅
@@ -58,18 +60,18 @@ What parts of the company will be SOC 2 compliant? Maybe exclude your marketing 
 - Blissfully
 
 ### Single Sign On:
-- GSuite ✅
+- [GSuite](https://workspace.google.com/intl/en_au/) ✅
   - Vanta integration
 - Okta
 - OneLogin
 
 ### Pentesting:
-- HackerOne
-- Cobalt
+- [HackerOne](https://www.hackerone.com)
+- [Cobalt](https://www.cobalt.io/)
 - [BSK Security](https://bsk-security.com/) ✅
 
 ### Security Monitoring:
-- Detectify ✅
+- [Detectify](https://detectify.com/) ✅
 - [sqreen](https://www.sqreen.com/)
 
 ### Security Training:
@@ -79,6 +81,7 @@ What parts of the company will be SOC 2 compliant? Maybe exclude your marketing 
 ### Auditors:
 - Barr Advisory ✅
   - Vanta Referral
+- [Brace168](https://www.brace168.com/)
 
 ### Auditable Infrastructure:
 - Terraform ✅
